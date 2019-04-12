@@ -1,5 +1,5 @@
 # The Challenge
-
+___
 The purpose of this project is to help you familiarize yourself with basic git commands. This will teach you the basics of managing a project via the command line. You will learn how to create repositories, create branches, merge pull requests. Repeat these Parts as many times as necessary, adding any files you want, changing your own files, etc to watch how things change. keep your github account open in a browser window and refresh often so you can watch the changes you make. Repeat this as many times as you want to learn these commands and how they function. 
 
 You will be using the commands on this simple git guide to complete the following tasks. I've included certain phrasing to hint at the commands you will need at each step and there's a very brief glossary at the end. 
@@ -11,7 +11,7 @@ http://rogerdudler.github.io/git-guide/
 Git should already be installed and configured on your computer. Please follow the instructions on the simple guide to do so if you have not.
 
 
-
+___
 
 ### Part 1: Creating a new project
 1. Create a new folder on your desktop. Name is anything you'd like, no spaces.
@@ -44,7 +44,7 @@ Git should already be installed and configured on your computer. Please follow t
 
 
 
-
+___
 
 
 
